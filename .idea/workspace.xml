@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f060b20-3061-47cf-8d5a-4c6d6a0a0608" name="Changes" comment="basic flappy bird game abstract">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/CityEngine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicDemo/game/Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicDemo/game/Game$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicDemo/game/Game$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicDemo/game/Game$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicDemo/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicDemo/game/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicDemo/game/StudentCollision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicDemo/game/StudentCollision.class" afterDir="false" />
-    </list>
+    <list default="true" id="5f060b20-3061-47cf-8d5a-4c6d6a0a0608" name="Changes" comment="basic flappy bird game abstract" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +112,7 @@
       <workItem from="1737984951241" duration="8483000" />
       <workItem from="1738255283741" duration="16388000" />
       <workItem from="1738340756867" duration="2927000" />
-      <workItem from="1738343797227" duration="619000" />
+      <workItem from="1738343797227" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="basic flappy bird game abstract">
       <option name="closed" value="true" />
